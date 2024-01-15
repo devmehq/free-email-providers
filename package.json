@@ -1,0 +1,17 @@
+{
+  "name": "@devmehq/free-email-providers",
+  "version": "1.0.0",
+  "description": "A list of free email providers in JSON format",
+  "keywords": [
+    "email",
+    "free",
+    "providers"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devmehq/free-email-providers"
+  },
+  "license": "MIT",
+  "author": "DEV.ME <support@dev.me> (https://dev.me)",
+  "dependencies": {}
+}
