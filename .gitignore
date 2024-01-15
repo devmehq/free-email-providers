@@ -1,3 +1,4 @@
 .idea
 *.txt
 *.js
+node_modules
