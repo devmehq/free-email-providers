@@ -1,20 +1,19 @@
-# Free Email Providers List
+# Repository Moved
 
-A list of free email providers and domains for disposable email addresses, spam email protection and temporary email accounts.
+**This repository has been archived and is no longer maintained.**
 
-## Why?
+The up-to-date and actively maintained list of free email providers is now located at:
 
-I created this list because I find it useful. I use it to protect my email address when I sign up to new services. I also use it to test my own web applications. I hope you find it useful too.
+# 👉 https://github.com/email-check-app/free-email-providers
 
-## How?
+Please update your bookmarks, dependencies, and any scripts or applications that reference this repository to point to the new location.
 
-I use this list to validate email addresses. I check if the email address is from a free email provider. If it is, I reject the email address. I also use this list to check if the email address is from a disposable email provider. If it is, I reject the email address.
+### Why the move?
+The project is now maintained under the **email-check-app** organization to better align it with related email validation tools and ensure continued active development.
 
+### What to do next
+- Star and watch the new repository: https://github.com/email-check-app/free-email-providers
+- Update any package references, git submodules, or raw file URLs to the new repository.
 
-## Contributing
-
-If you find a free email provider or domain that is not on this list, please submit a pull request. If you find an email provider or domain on this list that is no longer free, please submit a pull request. If you find an email provider or domain on this list that is no longer active, please submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Thank you for using this list!  
+We look forward to seeing you at the new home. 🚀
